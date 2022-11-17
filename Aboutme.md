@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+My+name+is+Himanshu;)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+Create+Games;)](https://git.io/typing-svg)
+
 
 
 - 👀 I’m interested in ...
