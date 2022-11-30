@@ -44,7 +44,8 @@
 </details>
 
 
-
+</details>
+<summary>Contributions Graph</summary>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="github activity graph" src="https://carol42-activity-graph.herokuapp.com/graph?username=himanshuskyrockets&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
