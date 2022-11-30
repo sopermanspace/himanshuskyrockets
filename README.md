@@ -38,7 +38,7 @@
 <h2>:thought_balloon: Quote of the day</h2>
 
 </summary>
-    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <a href="https://github.com/himanshuskyrockets">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
 </details>
@@ -47,7 +47,7 @@
 </details>
 <summary>Contributions Graph</summary>
 
-<a href="https://github.com/himanshuskyrockets/github-readme">
+<a href="https://github.com/himanshuskyrockets/">
     <img alt="github activity graph" src="https://carol42-activity-graph.herokuapp.com/graph?username=himanshuskyrockets&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
 </a>
 </details>
@@ -59,7 +59,9 @@
     <img alt="visitors counter" src="https://profile-counter.glitch.me/himanshuskyrockets/count.svg">
 </div>
 </details>
-
+<!--Credits To All the Creators 
+  Thanks all the Creator for making this Possible there are lot of other Creators Who inspired me and helped to Create this Stunning 
+   Readme/Aboutme-->
 
 
 
