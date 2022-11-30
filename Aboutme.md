@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+My+name+is+SupermanSpace;)](https://git.io/typing-svg)
 
-<h3 align="center">A Game Developer From India</h3>
-
-
+<h3 align="left"> A Game Developer From India </h3>
 
 
 
