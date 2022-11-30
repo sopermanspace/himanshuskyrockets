@@ -20,9 +20,9 @@
 
 - 📝 I regularly write articles on [mywebsite.com](mywebsite.com)
 
-- 💬 Ask me about **I love playing Games**
+- 💬 Ask me about **Up 2 U**
 
-- 📫 How to reach me **Connect me on My youtube**
+- 📫 How to reach me **Sue in Court😎**
 
 - 😂 Fun Fact **I am Not Superman!**
 
@@ -47,7 +47,7 @@
 </details>
 <summary>Contributions Graph</summary>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/himanshuskyrockets/github-readme">
     <img alt="github activity graph" src="https://carol42-activity-graph.herokuapp.com/graph?username=himanshuskyrockets&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
 </a>
 </details>
