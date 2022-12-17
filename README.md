@@ -20,7 +20,7 @@
 
 - 📝 I regularly write articles on [mywebsite.com](mywebsite.com)
 
-- 💬 Ask me about **Up 2 U**
+- 💬 Ask me about **U**
 
 - 📫 How to reach me **Sue in Court😎**
 
