@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **New things like Languages,music,Art,Sports**
 
 - 👀 Additional interest **writing,acting,voice-over,IR,Governance**
-- 
+ 
 - 👯 I’m looking to collaborate on **Game Development**
 
 - 🤝 I’m looking for help with **Game Development**
