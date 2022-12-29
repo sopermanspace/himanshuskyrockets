@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on [mywebsite.com](mywebsite.com)
 
-- 💬 Ask me about **U**
+- 💬 Ask me about **to become a superhero?**
 
 - 📫 How to reach me **Sue in Court😎**
 
