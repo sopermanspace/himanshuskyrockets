@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [Notupdated.com](Notupdated.com)
 
-- 📝 I regularly write articles on [mywebsite.com](mywebsite.com)
+- 📝 I regularly write articles on [mywebsite.com](mywebsite.com)(https://medium.com/me/stories/public)
 
 - 💬 Ask me about **to become a superhero?**
 
