@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Game Development**
 
-- 👨‍💻 All of my projects are available at [Notupdated.com](Notupdated.com)
+- 👨‍💻 All of my projects are available at [Notupdated.com](https://github.com/himanshuskyrockets?tab=repositories)
 
 - 📝 I regularly write articles on [medium.com](https://medium.com/@Clubwritter)
 
