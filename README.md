@@ -20,13 +20,14 @@
 
 - 👨‍💻 All of my projects are available at [Notupdated.com](Notupdated.com)
 
-- 📝 I regularly write articles on [mywebsite.com](mywebsite.com)
+- 📝 I regularly write articles on [medium.com](https://medium.com/@Clubwritter)
 
-- 💬 Ask me about **to become a superhero?**
+- 💬 Ask me about **how to become a superhero?**
 
 - 📫 How to reach me **Sue in Court😎**
 
 - 😂 Fun Fact **I am Not Superman!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
