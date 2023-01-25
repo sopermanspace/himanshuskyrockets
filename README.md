@@ -1,9 +1,11 @@
+
+![Profile Picture](https://avatars.githubusercontent.com/u/84278213?s=40&v=4)
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+My+name+is+SupermanSpace;)](https://git.io/typing-svg)
 
+
 <h3 align="left"> A Game Developer From India </h3>
-
-
-
 
 
 - 👀 I’m interested in **ART. Tech, Nature,Music,SuperPower**
