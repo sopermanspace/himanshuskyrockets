@@ -28,10 +28,12 @@
 - 😂 Fun Fact **I am Not Superman!**
 
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Himansh78862131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="my bluebird" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC3-KY54e1Fcgb2y2B3JEbQQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="my yt" height="30" width="40" /></a>
+<a href="https://twitter.com/superman_space" target="blank"><img align="center" src="https://user-images.githubusercontent.com/84278213/227192076-8b5c8658-0ca6-41f0-856a-f5f922fa1927.svg" alt="my bluebird" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC3-KY54e1Fcgb2y2B3JEbQQ" target="blank"><img align="center" src="https://user-images.githubusercontent.com/84278213/227192227-ae4d9edb-acb0-477a-ba4c-97fc04bb6cb9.svg" alt="my yt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
