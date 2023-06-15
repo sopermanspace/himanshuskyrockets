@@ -24,8 +24,14 @@ Hello! I'm SupermanSpace, a passionate game developer from India. I love combini
 
 You can find me on various platforms:
 
-- Twitter: [@superman_space](https://twitter.com/superman_space)
-- YouTube: [@SupermanSpace](https://www.youtube.com/channel/UC3-KY54e1Fcgb2y2B3JEbQQ)
+Twitter: [@superman_space](https://twitter.com/superman_space)
+<p align="left">
+<a href="https://twitter.com/superman_space" target="blank"><img align="center" src="https://user-images.githubusercontent.com/84278213/227192076-8b5c8658-0ca6-41f0-856a-f5f922fa1927.svg" alt="my bluebird" height="30" width="40" /></a>
+
+YouTube: [@SupermanSpace](https://www.youtube.com/channel/UC3-KY54e1Fcgb2y2B3JEbQQ)
+  
+<a href="https://www.youtube.com/channel/UC3-KY54e1Fcgb2y2B3JEbQQ" target="blank"><img align="center" src="https://user-images.githubusercontent.com/84278213/227192227-ae4d9edb-acb0-477a-ba4c-97fc04bb6cb9.svg" alt="my yt" height="30" width="40" /></a>
+</p>
 
 ## Projects
 
@@ -38,11 +44,6 @@ I regularly write articles on various topics. You can read them on [Medium](http
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/superman_space" target="blank"><img align="center" src="https://user-images.githubusercontent.com/84278213/227192076-8b5c8658-0ca6-41f0-856a-f5f922fa1927.svg" alt="my bluebird" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC3-KY54e1Fcgb2y2B3JEbQQ" target="blank"><img align="center" src="https://user-images.githubusercontent.com/84278213/227192227-ae4d9edb-acb0-477a-ba4c-97fc04bb6cb9.svg" alt="my yt" height="30" width="40" /></a>
-</p>
 
 ## Languages and Tools
 
